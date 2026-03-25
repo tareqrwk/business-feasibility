@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # LaunchLens
 
 A business feasibility analysis tool for entrepreneurs. LaunchLens helps users evaluate business ideas by providing comprehensive feasibility reports covering costs, competition, profitability, and market analysis.
